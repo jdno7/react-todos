@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Test 1`] = `
+<DocumentFragment>
+  <div>
+    <h2>
+      My Todo List
+    </h2>
+    <div>
+      Do the dishes
+      <button
+        data-testid="Do the dishes"
+      >
+        X
+      </button>
+    </div>
+    <div>
+      Laundry
+      <button
+        data-testid="Laundry"
+      >
+        X
+      </button>
+    </div>
+    <div>
+      Grocery Store
+      <button
+        data-testid="Grocery Store"
+      >
+        X
+      </button>
+    </div>
+    <div>
+      Do some sex
+      <button
+        data-testid="Do some sex"
+      >
+        X
+      </button>
+    </div>
+  </div>
+  <div>
+    <form>
+      <h2>
+        Add New Todo
+      </h2>
+      <label
+        for="todo"
+      >
+        Todo
+      </label>
+      <input
+        id="todo"
+        name="todo"
+        type="text"
+        value=""
+      />
+      <button>
+        Add Todo!
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;
